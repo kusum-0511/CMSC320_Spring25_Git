@@ -9,3 +9,7 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: As I am from agricultural background, I think it could help in agriculture for collecting data from soil sensors and weather models which could help farmers to minimize the effect of weather 
 for thier crops and they also get idea of what kind of fertilizers they can use according to type and quality of their crop.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches whereas rebashing moves changes from one branch onto another.
