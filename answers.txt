@@ -13,3 +13,7 @@ for thier crops and they also get idea of what kind of fertilizers they can use 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two branches whereas rebashing moves changes from one branch onto another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning SQL, Pandas, getting an internship and going for a springbreak trip
