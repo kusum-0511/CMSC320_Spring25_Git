@@ -1,4 +1,11 @@
+
 Q1: Why might we consider using Git?
 
 Answer: For me personally its a very good way of collaborating with someone. I can work with a group of multiple people and we can work simutaneously on some project without overwriting each others 
 code.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: As I am from agricultural background, I think it could help in agriculture for collecting data from soil sensors and weather models which could help farmers to minimize the effect of weather 
+for thier crops and they also get idea of what kind of fertilizers they can use according to type and quality of their crop.
+
